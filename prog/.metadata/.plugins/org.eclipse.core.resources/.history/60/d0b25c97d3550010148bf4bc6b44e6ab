@@ -1,0 +1,10 @@
+#include <iostream>
+#include <stdlib.h>
+using namespace std;
+int main(){
+	int i;
+	cout<<"hi"<<endl;
+	cin>>i;
+	return 0;
+
+}
